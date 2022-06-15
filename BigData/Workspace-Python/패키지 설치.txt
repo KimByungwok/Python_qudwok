@@ -1,0 +1,12 @@
+1. 파이썬 설치 후 환경변수 설정
+2. Visual Studio Code 설치 후 파이썬 패키지 설치
+
+- pip 업그레이드
+  python -m pip install --upgrade pip
+- 주피터 노트북 설치
+  pip install jupyter
+
+- 판다스 패키지 설치
+  pip install pandas
+  pip install wheel
+  pip install folium
